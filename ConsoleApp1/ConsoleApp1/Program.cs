@@ -11,6 +11,7 @@ namespace Classes__Basics
             //create a new human
             Human human = new Human("Bahi", "Yekpahi");
             Console.WriteLine("{0} {1}", human.firstName, human.lastName);
+            human.present();
         }
     }
 }

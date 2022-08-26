@@ -9,12 +9,17 @@ namespace ConsoleApp1
     internal class Human
     {
         public string firstName;
-        public string lastName;
+        private string lastName;
 
         public Human (string firstName, string lastName)
         {
             this.firstName = firstName;
             this.lastName = lastName;
+        }
+
+        public void present()
+        {
+            Console.WriteLine("Je me nom {1} {0}", firstName, lastName);
         }
     }
 }
