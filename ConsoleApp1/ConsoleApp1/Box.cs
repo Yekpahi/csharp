@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Properties
+    internal class Box
     {
+        int id;
+        string name;
     }
 }

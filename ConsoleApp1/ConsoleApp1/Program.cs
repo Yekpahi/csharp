@@ -8,10 +8,12 @@ namespace Classes__Basics
     {
         static void Main(string[] args)
         {
-            //create a new human
-            Human human = new Human("Bahi", "Yekpahi");
-            Console.WriteLine("{0} {1}", human.firstName, human.lastName);
-            human.present();
+         Box box = new Box();
+            box.id = 66210202;
+            box.name = "Prince Bai";
+            Console.WriteLine(box.id);
+            Console.WriteLine(box.name);
+
         }
     }
 }
