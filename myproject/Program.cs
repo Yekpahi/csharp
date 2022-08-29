@@ -1,23 +1,21 @@
 ﻿using System;
+using Informatique;
 
-namespace Inheritance {
+namespace Inheritance
+{
 
-  abstract class Language {
 
-    public void lang()
+    class Program
     {
-        Console.WriteLine("I speak english");
+
+        static void Main(string[] args)
+        {
+    
+        Logiciel l1 = new Logiciel("Maya", 2000);
+        Console.WriteLine(l1.name);
+        l1.presentation();
+
+        }
+
     }
-  }
-
-  class Program : Language{
-
-    static void Main(string[] args) {
-
-        Program p = new Program();
-        p.lang();
-
-    }
-
-  }
 }
