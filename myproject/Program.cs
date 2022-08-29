@@ -4,16 +4,21 @@ using Informatique;
 namespace Inheritance
 {
 
-
-    class Program
+    interface Irectangle
     {
-
+        int aire(int a, int b);
+    }
+    class Program : Irectangle
+    {
+        public int aire(int a, int b) {
+            int aire = a * b;
+            return aire;
+        }
         static void Main(string[] args)
         {
     
-        Logiciel l1 = new Logiciel("Maya", 2000);
-        Console.WriteLine(l1.name);
-        l1.presentation();
+            Program a1 = new Program();
+            Console.WriteLine(a1.aire(10, 20));
 
         }
 
