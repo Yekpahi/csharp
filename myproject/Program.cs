@@ -1,28 +1,43 @@
 ﻿using System;
+using Myclass;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    /*class Present {
-        public string nom;
-        public string prenom;
-
-        public void presentation () {
-            Console.WriteLine("Je me nomme {0} {1}", prenom, nom);
-        }
-    }*/
-
-    class Student {
-        protected string name;
-    }
-    internal class Program : Student
+   
+    internal class Program 
     {
+        string mygram;
 
+        //static properties
+
+        static string classname = "Class A";
+
+        static void present() {
+            Console.WriteLine("My class is " + classname);
+        }
+
+        Program (string gram) {
+            this.mygram = gram;
+        }
+
+        Program (Program p) {
+            this.mygram = p.mygram;
+        }
         static void Main(string[] args)
         {
-           Program p1 = new Program();
-           p1.name = "Charles";
+          Car c1 = new Car("Toyota", 2016);
+          Console.WriteLine("La marque de ma voiture est {0}. Elle est de {1}", c1.mark, c1.year);
+          /* PROGRAMMME*/
+        Program pr1 = new Program("Python");
+        Console.WriteLine("Brand of car1: " + pr1.mygram);
 
-           Console.WriteLine(p1.name);
+         Program pr2 = new Program(pr1);
+        Console.WriteLine("Brand of car2: " + pr2.mygram);
+        Console.WriteLine("My planet " + Car.planet);
+
+        Console.WriteLine(classname);
+        present();
+
         }
     }
 }
