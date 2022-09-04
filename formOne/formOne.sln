@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formOne", "formOne\formOne.csproj", "{602192CB-8195-41C9-9BE1-274D1E9615EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602192CB-8195-41C9-9BE1-274D1E9615EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602192CB-8195-41C9-9BE1-274D1E9615EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602192CB-8195-41C9-9BE1-274D1E9615EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602192CB-8195-41C9-9BE1-274D1E9615EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B301930E-1978-48B8-BCC3-C307D62C92DA}
+	EndGlobalSection
+EndGlobal

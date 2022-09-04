@@ -1,0 +1,17 @@
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\bin\Debug\net6.0-windows\MyFirstDesktopApp.exe
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\bin\Debug\net6.0-windows\MyFirstDesktopApp.deps.json
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\bin\Debug\net6.0-windows\MyFirstDesktopApp.runtimeconfig.json
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\bin\Debug\net6.0-windows\MyFirstDesktopApp.dll
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\bin\Debug\net6.0-windows\MyFirstDesktopApp.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.Form1.resources
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.AssemblyInfoInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.AssemblyInfo.cs
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.dll
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\refint\MyFirstDesktopApp.dll
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\MyFirstDesktopApp.genruntimeconfig.cache
+C:\Users\princ\OneDrive\Bureau\csharp\MyFirstDesktopApp\MyFirstDesktopApp\obj\Debug\net6.0-windows\ref\MyFirstDesktopApp.dll

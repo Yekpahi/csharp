@@ -1,0 +1,22 @@
+﻿<Window x:Class="WFPHelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WFPHelloWorld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+
+        <StackPanel>
+            <Button x:Name="myButt"
+                Content="Salut les gars"
+         
+         />
+            <TextBlock x:Name="mytxt" Text = "Welcome to XAML Tutorial" Height = "20" Width = "200" Margin = "5" Foreground ="Green"/>
+            <Button Content = "Ok" Height = "20" Width = "60" Margin = "5"/>
+            <TextBlock  Padding="50"> <Italic>Les gens sont ici </Italic> <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.google.com" >Google</Hyperlink></TextBlock>
+        </StackPanel>
+      
+    </Grid>
+</Window>
