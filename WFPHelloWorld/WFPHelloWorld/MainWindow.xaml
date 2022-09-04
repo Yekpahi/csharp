@@ -6,17 +6,10 @@
         xmlns:local="clr-namespace:WFPHelloWorld"
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="800">
-    <Grid>
 
-        <StackPanel>
-            <Button x:Name="myButt"
-                Content="Salut les gars"
-         
-         />
-            <TextBlock x:Name="mytxt" Text = "Welcome to XAML Tutorial" Height = "20" Width = "200" Margin = "5" Foreground ="Green"/>
-            <Button Content = "Ok" Height = "20" Width = "60" Margin = "5"/>
-            <TextBlock  Padding="50"> <Italic>Les gens sont ici </Italic> <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.google.com" >Google</Hyperlink></TextBlock>
-        </StackPanel>
+    <StackPanel>
+           
+    </StackPanel>
       
-    </Grid>
+ 
 </Window>

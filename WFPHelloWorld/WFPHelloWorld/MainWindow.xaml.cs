@@ -23,14 +23,18 @@ namespace WFPHelloWorld
         public MainWindow()
         {
             InitializeComponent();
-            myButt.FontSize = 45;
-            myButt.Content = "Salut Adonai";
-            mytxt.Text = "Nos idées sont bonnes mais soyons bons";
+            TextBlock textBlock = new TextBlock();
+            textBlock.Text = "Je suis ici pour la paix ";
+            textBlock.Inlines.Add("This is added using Inlines!");
+            textBlock.Inlines.Add(new Run(" Run text that I added in Code behind")
+            {
+                Foreground = Brushes.Red,
+                TextDecorations = TextDecorations.Underline
+            });
+            textBlock.TextWrapping = TextWrapping.Wrap;
+            textBlock.Foreground = Brushes.BurlyWood;
+            this.Content = textBlock;
         }
 
-        private void Hyperlink_RequestNavigate(object sender, RequestNavigateEventArgs e)
-        {
-            System.Diagnostics.Process.Start(e.Uri.AbsoluteUri);
-        }
     }
 }
