@@ -23,17 +23,7 @@ namespace WFPHelloWorld
         public MainWindow()
         {
             InitializeComponent();
-            TextBlock textBlock = new TextBlock();
-            textBlock.Text = "Je suis ici pour la paix ";
-            textBlock.Inlines.Add("This is added using Inlines!");
-            textBlock.Inlines.Add(new Run(" Run text that I added in Code behind")
-            {
-                Foreground = Brushes.Red,
-                TextDecorations = TextDecorations.Underline
-            });
-            textBlock.TextWrapping = TextWrapping.Wrap;
-            textBlock.Foreground = Brushes.BurlyWood;
-            this.Content = textBlock;
+         
         }
 
     }
