@@ -64,28 +64,7 @@
         </Style>
     </Window.Resources>
 
-    <StackPanel>
-        <Label x:Name="labo" Margin="16, 16, 16, 0" Padding="20"
-         BorderThickness="2"
-         BorderBrush="RED">
-            
-                <StackPanel Orientation="Horizontal">
-                <Image  Width="32" Source="https://cdn-icons-png.flaticon.com/512/1946/1946426.png"/>
-                <AccessText Margin="20, 0, 0, 0" FontSize="32" Text="Message" ></AccessText>
-                <Border Background="GhostWhite" BorderBrush="Silver" BorderThickness="1" CornerRadius="10"  Margin="20, 0, 0, 0" Padding="5" >
-                    <TextBlock FontSize="32">Allons seulement</TextBlock>
-                </Border>
-                   </StackPanel>
-        
-        </Label>
+    <StackPanel/>
 
 
-            <Border CornerRadius="10" BorderBrush="Black" BorderThickness="3" Padding="15, 0, 0, 0">
-                <TextBox AcceptsReturn ="True"  FontSize="32"  Language="en-US" Padding="15, 0, 10, 0" BorderThickness="0"/>
-            </Border>
-        <Button Style="{DynamicResource ButtonStyle1}" Width="150" Content="Lassse" FontSize="32" Margin="20"/>
-
-    </StackPanel>
-      
- 
 </Window>

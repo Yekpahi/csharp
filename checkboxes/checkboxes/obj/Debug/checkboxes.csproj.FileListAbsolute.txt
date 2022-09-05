@@ -1,0 +1,16 @@
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\bin\Debug\checkboxes.exe.config
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\bin\Debug\checkboxes.exe
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\bin\Debug\checkboxes.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\MainWindow.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\App.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes_MarkupCompile.cache
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes_MarkupCompile.lref
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\MainWindow.baml
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.g.resources
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.Properties.Resources.resources
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.exe
+C:\Users\princ\OneDrive\Bureau\csharp\checkboxes\checkboxes\obj\Debug\checkboxes.pdb

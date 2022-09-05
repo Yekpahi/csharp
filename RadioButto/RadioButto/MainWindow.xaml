@@ -1,0 +1,29 @@
+﻿<Window x:Class="RadioButto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioButto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="408">
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold">Presidents lists</Label>
+        <RadioButton x:Name ="radio"  GroupName="president" Checked="radio_Checked" VerticalContentAlignment="Center" FontSize="30" Unchecked="radio_Unchecked">
+            <WrapPanel>
+                <Image Name ="imcheck"  Height="150" Width="150"  Source="https://resize.elle.fr/original/var/plain_site/storage/images/people/la-vie-des-people/news/michelle-obama-partage-un-tendre-message-pour-les-61-ans-de-barack-obama-4043135/97167072-1-fre-FR/Michelle-Obama-partage-un-tendre-message-pour-les-61-ans-de-Barack-Obama.jpg"/>
+                <Label Name="radiolb" > Obama </Label>
+            </WrapPanel>
+
+        </RadioButton>
+        <RadioButton GroupName="president">Gbagbo</RadioButton>
+        <RadioButton GroupName="president" IsChecked="True">Biden</RadioButton>
+
+        <Label FontWeight="Bold">Countries lists</Label>
+        <RadioButton GroupName="country" >France</RadioButton>
+        <RadioButton GroupName="country">Suisse</RadioButton>
+        <RadioButton GroupName="country" IsChecked="True">
+            
+        </RadioButton>
+        <Image Height="100" Width="100" Source="https://resize.elle.fr/original/var/plain_site/storage/images/people/la-vie-des-people/news/michelle-obama-partage-un-tendre-message-pour-les-61-ans-de-barack-obama-4043135/97167072-1-fre-FR/Michelle-Obama-partage-un-tendre-message-pour-les-61-ans-de-Barack-Obama.jpg"/>
+    </StackPanel>
+</Window>

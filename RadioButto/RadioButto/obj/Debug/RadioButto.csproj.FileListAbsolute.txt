@@ -1,0 +1,16 @@
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\bin\Debug\RadioButto.exe.config
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\bin\Debug\RadioButto.exe
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\bin\Debug\RadioButto.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.csproj.SuggestedBindingRedirects.cache
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\MainWindow.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\App.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto_MarkupCompile.cache
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto_MarkupCompile.lref
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\MainWindow.baml
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.g.resources
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.Properties.Resources.resources
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.exe
+C:\Users\princ\OneDrive\Bureau\csharp\RadioButto\RadioButto\obj\Debug\RadioButto.pdb

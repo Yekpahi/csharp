@@ -1,0 +1,16 @@
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\bin\Debug\GuiXaml.exe.config
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\bin\Debug\GuiXaml.exe
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\bin\Debug\GuiXaml.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.csproj.SuggestedBindingRedirects.cache
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\MainWindow.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\App.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml_MarkupCompile.cache
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml_MarkupCompile.lref
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\MainWindow.baml
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.g.resources
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.Properties.Resources.resources
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.exe
+C:\Users\princ\OneDrive\Bureau\csharp\GuiXaml\GuiXaml\obj\Debug\GuiXaml.pdb
