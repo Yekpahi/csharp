@@ -1,0 +1,16 @@
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.csproj.SuggestedBindingRedirects.cache
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\MainWindow.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\App.g.cs
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images_MarkupCompile.cache
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images_MarkupCompile.lref
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\bin\Debug\Images.exe.config
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\bin\Debug\Images.exe
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\bin\Debug\Images.pdb
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\MainWindow.baml
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.g.resources
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.Properties.Resources.resources
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.csproj.GenerateResource.cache
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.exe
+C:\Users\princ\OneDrive\Bureau\csharp\Images\Images\obj\Debug\Images.pdb
